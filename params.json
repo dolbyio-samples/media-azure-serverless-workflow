@@ -1,0 +1,15 @@
+{
+    "azure_api_key" : "Your Azure storage account API key",
+    "cog_api_key": "Your Azure cognitive services API key",
+    "dolbyio_api_key": "Your Dolby.io media processing API key",
+    
+
+    "AZURE_ACC_NAME" : "Your storage account name",
+    "AZURE_CONTAINER" : "Your container name",
+    "AZURE_BLOB_OUTPUT_SUFFIX" : "_enhanced.wav",
+    "SCORE_THRESHOLD" : 7,
+
+    "transcription_url" : "https://[YOUR_SERVER_REGION].api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions",
+    "tunneling_url": "Your tunneling URL"
+
+}
