@@ -8,7 +8,7 @@ products:
 - azure-cognitive-services
 ---
 
-# Media Pipline
+# Media Pipeline
 This sample highlights how to use Azure functions and Dolby.io to create a media processing pipeline that transcribes and enhances input media.
 
 ## Getting Started
