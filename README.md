@@ -34,6 +34,7 @@ This sample highlights how to use Azure functions and Dolby.io to create a media
 - "tunneling_url" : The location of your Serverless HTTP trigger, or your HTTP tunnel (if you run locally) 
 
 ### Steps
+- [Start by cloning this repo to your local machine.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 #### Local with VS Code
 - [Follow the guide here to get setup with VS Code, Azure functions, and Python.](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
 - Once set up you can clone the project and open it in VS Code.
