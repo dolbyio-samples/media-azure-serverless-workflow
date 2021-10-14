@@ -35,7 +35,7 @@ This sample highlights how to use Azure functions and Dolby.io to create a media
 
 ### Steps
 - [Start by cloning this repo to your local machine.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-#### Local with VS Code
+#### Local with VS Code (Recommended for development)
 - [Follow the guide here to get setup with VS Code, Azure functions, and Python.](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
 - Once set up you can clone the project and open it in VS Code.
 - [Create a HTTP tunnel with ngrok](https://ngrok.com/docs#http-local-https)
@@ -46,7 +46,7 @@ This sample highlights how to use Azure functions and Dolby.io to create a media
 - Once the code is running, navigate to http://localhost:"YOUR_SERVER"/api/MediaProcessingWorkflow?input_file="YOUR_INPUT_FILE" in your browser.
 - - This will trigger the function to run locally, if all params are valid you can check your storage account for transcriptions or enhanced media.
 
-#### Server with VS Code (Recommended)
+#### Server with VS Code (Recommended for deployment)
 - [Follow the guide here to get setup with VS Code, Azure functions, and Python.](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
 - Once set up you can clone the project and open it in VS Code.
 - Adjust the "params.json" file. 
