@@ -57,6 +57,6 @@ This sample highlights how to use Azure functions and Dolby.io to create a media
 - - https://"YOUR_FUNCTION_APP_NAME".azurewebsites.net/api/"YOUR_FUNCTION_NAME"?input_file="YOUR_INPUT_FILE"
 
 ## References
-- [Use Dolby.io to inspect, correct, and perfect your audio](https://dolby.io/products/media-processing)
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-- [Reach out for clarification @BradenRiggs1 on Twitter](https://twitter.com/BradenRiggs1)
+- [Use Dolby.io to inspect, correct, and perfect your audio.](https://dolby.io/products/media-processing)
+- [Azure Functions.](https://azure.microsoft.com/en-us/services/functions/)
+- [Reach out for clarification @BradenRiggs1 on Twitter.](https://twitter.com/BradenRiggs1)
